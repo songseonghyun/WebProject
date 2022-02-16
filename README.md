@@ -4,12 +4,12 @@
 저의 업무는 상세페이지/통합검색의 구현입니다. 추가적으로 발표를 진행하게 되었습니다.
 
 # 사용기술
-JDBC :  Oracle Database연결
-DTO : 데이터 전송 객체
-DAO : 데이터 접근 객체
-Servlet : Servlet 클래스의 구현 규칙을 지킨 자바 웹 프로그래밍 기술
-JSP : 웹 페이지의 틀
-JSTL : JavaServer Pages Standard Tag Library
+JDBC :  Oracle Database연결/
+DTO : 데이터 전송 객체/
+DAO : 데이터 접근 객체/
+Servlet : Servlet 클래스의 구현 규칙을 지킨 자바 웹 프로그래밍 기술/
+JSP : 웹 페이지의 틀/
+JSTL : JavaServer Pages Standard Tag Library/
 Open API : 네이버 개발자센터에서 지원하는 Open API
 
 # Oracle Cloud, Oracle Database
