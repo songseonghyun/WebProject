@@ -10,6 +10,7 @@ DAO : 데이터 접근 객체
 Servlet : Servlet 클래스의 구현 규칙을 지킨 자바 웹 프로그래밍 기술
 JSP : 웹 페이지의 틀
 JSTL : JavaServer Pages Standard Tag Library
+Open API : 네이버 개발자센터에서 지원하는 Open API
 
 # Oracle Cloud, Oracle Database
 오라클 클라우드를 연동하기 위해선 Mac OS의 경우 ojdbc10을 이용해야한다.
@@ -22,4 +23,5 @@ Visual Studio Code의 기본세팅을 진행한 후 웹 디자인하고, jsp파�
 # DBeaver
 DBeaver를 이용하여 SQL을 작성했다.
 
-
+# Open API
+Open API중 지도에 관련된 API를 이용하여 가게별 위치를 (위도, 경도)로 표기하여 위치를 확인하여 표시함
